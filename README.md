@@ -1,6 +1,6 @@
 ## Counter Time
 
-![example]('./public/counter.png');
+![example](./public/counter.png);
 
 
 ## Available Scripts
