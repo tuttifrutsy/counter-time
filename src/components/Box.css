@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  width: 200px;
+  height: 200px;
+  margin: 20px 20px;
+  border: solid 2px #B1B1B2;
+  border-radius: 15px;
+}

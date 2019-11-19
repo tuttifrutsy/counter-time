@@ -1,0 +1,7 @@
+
+.box-container{
+  display: flex;
+  width: 90%;
+  margin:  15% auto ;
+  justify-content: center;
+}
